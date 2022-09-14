@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>townley pride alliance</title>
+
+  <link rel="icon" type="image/x-icon" href="\Users\atl\Desktop\summer 2022\w e b\extra stuff\favicon.ico">
+
+  <link rel="stylesheet" href="../css/tstyles.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Monofett&family=Monoton&family=Quicksand&family=Syne+Mono&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      background-color: #fff;
+      margin: 0;
+      font-family: 'Quicksand', sans-serif;
+      font-size: 20px;
+    }
+
+    h1 {
+      font-family: 'Monofett', cursive;
+      font-size: 125px;
+      text-align: center;
+      margin: 0;
+    }
+
+    h2 {
+      font-family: 'Syne Mono', monospace;
+      font-size: 50px;
+      margin: 0;
+    }
+
+    h3 {
+      font-family: 'Quicksand', sans-serif;
+      font-size: 30px
+    }
+
+    p {
+      margin-bottom: 0;
+      font-size: 20px
+    }
+
+    div {
+      padding: 25px;
+    }
+
+    hr {
+      border-style: dotted none none;
+      border-color:#5e4949;
+      border-width: 10px;
+      width: 10%;
+    }
+
+    a {
+      color: #5e4949;
+    }
+
+    .header {
+      background-color: #ffc0b8;
+      color: #5e4949;
+      padding-top: 90px;
+      padding-bottom: 90px;
+      text-align: center;
+    }
+
+    .section1 {
+      background-color: #ffd485;
+      color: #635843;
+    }
+
+    .section2 {
+      background-color: #ffff8f;
+      color: #666649;
+    }
+
+    .section3 {
+      background-color: #b5ffc4;
+      color: #445748;
+    }
+
+    .section4 {
+      background-color: #b0c4ff;
+      color: #4f566b;
+    }
+
+    .footer {
+      background-color: #d3b5ff;
+      color: #50485c;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div class="header">
+      <h1>welcome to tpa!</h1>
+      <h3>striving for inclusivity and pride</h3>
+      <hr>
+      <h2>contents</h2>
+      <p>
+        <a href="#sec1">our goals</a><br>
+        <a href="#sec2">where to find us</a><br>
+        <a href="#sec3">how to contact us</a><br>
+        <a href="#sec4">credits</a><br>
+        <a href="#foot">contact us</a><br>
+      </p>
+  </div>
+
+  <div class="section1" id="sec1">
+      <h2>our goals</h2>
+      <ol>
+        <li>To be truly student-led: to have space to explore our own interests and share them with others, to present what we care
+          about to the rest of the school community and to communicate effectively with staff about matters of inclusion.</li>
+
+          <li>To create a guide for staff which is inclusive of all students in front of them; to ensure a consistency
+            of approach which keeps students safe and allows them to be heard and respected.</li>
+
+            <li>To reach out to members of the school community who may not already be aware of the TPA. To raise our profile in school.</li>
+      </ol>
+  </div>
+
+  <div class="section2" id="sec2">
+      <h2>where to find us</h2>
+      <p>
+        we gather on thursday lunctime in room 37 (the second floor of the maths block). It's open to all queer
+         people and allies, no matter of age, and there's no obligation to come every week. we are also looking
+         for sixth formers to help run the club. you will not be outed to anyone outside the club.
+      </p>
+  </div>
+
+  <div class="section3" id="sec3">
+      <h2>how to contact us</h2>
+      <p>
+        we have a <a href="https://twitter.com/townleypride" class="section3">twitter</a> and you can email Miss Welch
+         (who runs our organisation) at cwelch@townleygrammar.org.uk, if you have any further questions
+      </p>
+  </div>
+
+  <div class="section4" id="sec4">
+      <h2>credits</h2>
+      <p>
+        <ul>
+          <li>main programmer: lio 9Aph</li>
+          <li>writers: ziv 8Ath, ivo 9Aph, lio 9Aph</li>
+          <li>proof reader: ziv 8Ath</li>
+          <li>assistant proof reader: ivo 9Aph</li>
+          <li>moral support: ivo 9Aph, ziv 8Ath</li>
+        </ul>
+      </p>
+  </div>
+
+  <div class="footer" id="foot">
+      <h2>useful helplines</h2>
+      <p>
+        here we have linked some useful websites and organisations that support queer people:
+
+        <ul><a href="https://www.stonewall.org.uk/">stonewall</a> aims for freedom, equity and potential for queer people everywhere</ul>
+        <ul><a href="https://mermaids.org.uk/">mermaids</a> Helpline no. 0808 801 0400 or text MERMAIDS to 85258 - Mermaids have been
+          supporting supporting trans youth since 1995 and are now one of the UK's leading queer charities</ul>
+        <ul><a href="https://thebeyouproject.co.uk/">the be you project</a> is a safe space for queer youth in Kent where you can socialise and help each other</ul>
+        <ul><a href="https://imaanlondon.wordpress.com/">Imaan LGBTQ+</a> is the biggest charity which supports queer Muslims</ul>
+        <ul><a href="https://nazandmattfoundation.org/">the naz and matt foundation</a> aims to never let religion stop unconditional love between parent and children</ul>
+        <ul><a href="https://houseofrainbow.org">the house of rainbow</a> provides holistic pastoral care for for queer people with a range of emotional and spiritual support</ul>
+        <ul><a href="https://justlikeus.org/">just like us</a> work with schools to try and improve the lives of young queer people</ul>
+        <ul><a href="https://gaysians.org/">gaysians</a> are a movement which highlight south Asian LGBTQ+ voices</ul>
+
+      </p>
+  </div>
+
+</body>
